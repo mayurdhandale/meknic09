@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meknic09
 - 👀 I’m interested in IT company 
 - 🌱 I’m currently learning python  
-- 💞️ I’m looking to collaborate on python language 
+
 - 📫 How to reach me - ping me 
 
 <!---
